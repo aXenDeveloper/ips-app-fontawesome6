@@ -1,3 +1,5 @@
+![Header image](https://files.axendev.net/projects/ips/applications/fontawesome6/1.png)
+
 # (aXen) Font Awesome 6 in IPS
 
 The application updates the Font Awesome version to version 6 without destroying the icons embedded in IPS version 4.
@@ -25,5 +27,8 @@ _Something's not working? Clear the cache via **AdminCP** by **Get Support**!_
 3. Select file **.tar** from packet and click install button.
 
 ## 🔌 Download from other sources
+
+- [invisioncommunity.com](https://forum.invisionize.pl/files/file/837-axen-font-awesome-6-in-ips/),
+- [invisionize.pl](https://invisioncommunity.com/files/file/10056-axen-font-awesome-6-in-ips/)
 
 _The resources from the links above are updated on an ongoing basis if the administration approves the file._
