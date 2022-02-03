@@ -1,4 +1,4 @@
-![Header image](https://files.axendev.net/projects/ips/plugins/fontawesome5/1.png)
+![Header image](https://files.axendev.net/projects/ips/applications/fontawesome6/1.png)
 
 # (aXen) Font Awesome 6 in IPS
 
