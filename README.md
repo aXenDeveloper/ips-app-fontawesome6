@@ -4,6 +4,10 @@
 
 The application updates the Font Awesome version to version 6 without destroying the icons embedded in IPS version 4.
 
+Works at the **Front** and in **AdminCP**.
+
+Removal of the [(aXen) Font Awesome 5](https://github.com/aXenDeveloper/ips-fontawesome5) plugin is required.
+
 _Something's not working? Clear the cache via **AdminCP** by **Get Support**!_
 
 ## 🏷️ Requirements
