@@ -28,7 +28,7 @@ _Something's not working? Clear the cache via **AdminCP** by **Get Support**!_
 
 ## 🔌 Download from other sources
 
-- [invisioncommunity.com](https://forum.invisionize.pl/files/file/837-axen-font-awesome-6-in-ips/),
-- [invisionize.pl](https://invisioncommunity.com/files/file/10056-axen-font-awesome-6-in-ips/)
+- [invisioncommunity.com](https://invisioncommunity.com/files/file/10056-axen-font-awesome-6-in-ips/),
+- [invisionize.pl](https://forum.invisionize.pl/files/file/837-axen-font-awesome-6-in-ips/)
 
 _The resources from the links above are updated on an ongoing basis if the administration approves the file._
