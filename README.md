@@ -12,7 +12,7 @@ _Something's not working? Clear the cache via **AdminCP** by **Get Support**!_
 
 ## 🏷️ Requirements
 
-- [IPS Community Suite: 4.5, 4.6 version](https://invisioncommunity.com/)
+- [IPS Community Suite: 4.5, 4.6, 4.7 version](https://invisioncommunity.com/)
 
 ## 🧰 Install
 
